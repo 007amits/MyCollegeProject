@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Reservation
 {
 	Scanner in=new Scanner(System.in);
-//DESCRIPTION;
 int pno[]=new int[275];
 String name[]=new String[275];
 
@@ -204,10 +203,10 @@ passengerFound=1;
  
 System.out.println("age="+age[i]);
 }
-}//for
+}
 if(passengerFound==0)
 System.out.println("No such passenger");
-}//method
+}
 
 public void doExit()
 {
