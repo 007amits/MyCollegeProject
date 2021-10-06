@@ -10,9 +10,9 @@ String name[]=new String[275];
 
 int age[]=new int[275];
 int cl[]=new int[275];
-int pcount=0;//PASSENGER COUNT;
+int pcount=0;
 int pnum=1;		
-int max1=75;//FOR AC CLASS;
+int max1=75;
 int max2=125;// FOR FIRST CLASS;
 
 int max3=175;//FOR SLEEPER CLASS;
