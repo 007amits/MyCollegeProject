@@ -2,6 +2,8 @@ package com.amit;
 
 import java.util.Scanner;
 
+/* This is a sample project for booking tickets and viewing reservation charts
+ * We can also cancel the tickets. */
 public class Reservation {
 	Scanner in=new Scanner(System.in);
 	int pno[]=new int[275];
